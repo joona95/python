@@ -1,0 +1,70 @@
+﻿1. iris 붓꽃 데이터 
+ - 관측치 : 150개, 칼럼 : 5개
+
+Y 변수 
+Species : 꽃의 종(3가지 유형 : 범주형)
+X 변수
+Sepal.Length : 꽃받침 길이
+Sepal.Width : 꽃받침 넓이
+Petal.Length : 꽃잎 길이
+Petal.Width : 꽃잎 넓이
+
+2. Boston 주택 가격 데이터
+ - 1970년대 미국 보스턴의 주택 가격 데이터
+ - 관측치 : 506개, 칼럼 : 14개 
+
+Y 변수
+medv : 506 타운의 주택 가격 중앙값(단위 1,000 달러 : 연속형)
+X 변수
+CRIM: 범죄율
+INDUS: 비소매상업지역 면적 비율
+NOX: 일산화질소 농도
+RM: 주택당 방 수
+LSTAT: 인구 중 하위 계층 비율
+B: 인구 중 흑인 비율
+PTRATIO: 학생/교사 비율
+ZN: 25,000 평방피트를 초과 거주지역 비율
+CHAS: 찰스강의 경계에 위치한 경우는 1, 아니면 0
+AGE: 1940년 이전에 건축된 주택의 비율
+RAD: 방사형 고속도로까지의 거리
+DIS: 직업센터의 거리
+TAX: 재산세율
+
+3. 당뇨병 데이터
+ - 442 명의 당뇨병 환자의 검사 데이터
+ - 관측치 : 442개, 칼럼 : 11개 
+
+Y 변수 
+1년 후의 당뇨병 진행도(연속형)
+X 변수
+나이, 성병, BMI(body mass index)지수, 혈압 및 6개의 혈청 검사 수치
+
+4. wine 데이터
+ - 와인 분류 데이터
+ - 관측치 : 173개, 칼럼 : 14개 
+
+Y 변수 
+classes : 3가지 와인 분류(범주형:다항분류)
+X 변수
+Alcohol 
+Malic acid 
+Ash 
+Alcalinity of ash 
+Magnesium 
+Total phenols 
+Flavanoids 
+Nonflavanoid phenols 
+Proanthocyanins 
+Color intensity 
+Hue 
+OD280/OD315 of diluted wines 
+Proline 
+
+5. 유방암 진단결과 데이터 
+  - 위스콘신 유방암 센터에서 유방암 진단결과를 기록한 데이터 셋
+  - 관측치 : 569개, 칼럼 : 31개 
+
+Y 변수
+diagnosis : 진단 결과(악성:'malignant', 양성:'benign' : 범주형)
+X 변수
+암 유발 신체특징 30개 
